@@ -1,10 +1,10 @@
----
+l---
 services: data-lake-analytics
 platforms: dotnet
 author: saveenr
 ---
 
-# U-SQL Named Lambda functions
+# U-SQL named lambda functions
 
 ### Simple one-line lambda
 
