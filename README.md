@@ -4,7 +4,7 @@ platforms: dotnet
 author: saveenr
 ---
 
-# USQL Named Lambda functions
+# U-SQL Named Lambda functions
 
 ### Simple one-line lambda
 
