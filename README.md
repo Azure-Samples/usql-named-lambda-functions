@@ -1,4 +1,4 @@
-l---
+---
 services: data-lake-analytics
 platforms: dotnet
 author: saveenr
